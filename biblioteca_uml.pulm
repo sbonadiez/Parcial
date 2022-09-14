@@ -1,0 +1,13 @@
+class bibliotecario {
+name: str
+libross: list
+subirlibros(nomlibro:str)
+modificar_list(nomlibro:str)
+}
+class usuarioo{
+nombre: str
+prestar(nombre:str)
+devolver(nombre:str)
+dislibro()
+}
+
